@@ -11,7 +11,7 @@ image:
 
 # SoftHSM
 
-SoftHSM is an implementation of a cryptographic store accessible through a PKCS #11 interface. You can use it to explore PKCS #11 without having a Hardware Security Module. It is being developed as a part of the OpenDNSSEC project. SoftHSM uses Botan for its cryptographic operations.
+SoftHSM is an implementation of a cryptographic store accessible through a PKCS #11 interface. You can use it to explore PKCS #11 without having a Hardware Security Module. It was originally developed as a part of the OpenDNSSEC project. SoftHSM uses Botan or OpenSSL for its cryptographic operations.
 
 ## Background
 
@@ -22,7 +22,6 @@ A potential problem with the use of the PKCS #11 interface is that it might limi
 ## Source Code
 
 All source code can be found on [GitHub](https://github.com/softhsm).
-
 
 ## Bug Reporting
 
