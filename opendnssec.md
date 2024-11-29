@@ -1,6 +1,8 @@
 ---
-title: Background
+title: OpenDNSSEC
 ---
+
+SoftHSM was originally developed as a part of the OpenDNSSEC project.
 
 OpenDNSSEC handles and stores its cryptographic keys via the PKCS #11 interface. This interface specifies how to communicate with cryptographic devices such as HSM:s (Hardware Security Modules) and smart cards. The purpose of these devices is, among others, to generate cryptographic keys and sign information without revealing private-key material to the outside world. They are often designed to perform well on these specific tasks compared to ordinary processes in a normal computer.
 
