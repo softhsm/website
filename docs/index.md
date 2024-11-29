@@ -1,13 +1,13 @@
 ---
 title: SoftHSM
 image:
-  path: assets/SoftHSM-logo.png
-  width: 244
-  height: 65
+  path: assets/SoftHSM-logo-colour.png
+  width: 1932
+  height: 511
   alt: SoftHSM
 ---
 
-<img src="assets/SoftHSM-logo.png" width="200">
+<img src="assets/SoftHSM-logo-colour.png" width="256">
 
 # SoftHSM
 
