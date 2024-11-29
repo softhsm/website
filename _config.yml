@@ -2,4 +2,4 @@ title: SoftHSM
 theme: minima
 header_pages:
   - index.md
-  - opendnssec.md
+  - background.md
